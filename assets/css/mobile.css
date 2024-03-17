@@ -217,6 +217,7 @@ h1 {
 }
 .box-section {
   margin-top: -80px;
+  align-content: center;
 }
 .footer-outer-margin figure img {
   width: 594px;
@@ -1800,6 +1801,7 @@ h2 {
 }
 .box-section {
   margin-top: -40px;
+  align-content: center;
 }
 .best-choice-section .banner-btn {
   margin-bottom: 100px;
